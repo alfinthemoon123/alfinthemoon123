@@ -4,7 +4,7 @@
 # <center>Hi, I'm alfinthemoon13  <i class="fas fa-paw" style="color:yellow"></i> </center>
 
 # <i class="fas fa-graduation-cap" style="color:cyan"></i> About Me:
-<center>Computer and systems engineering student, member of ACM.Chapter.Cusco, member of the Angry Penguins, a group focused on Linux.</center>
+<center>Computer and systems engineering student, member of ACM.Chapter.Cusco.</center>
 <br>
 <br>
 <br>
