@@ -48,13 +48,14 @@ Rubber Ducky emulation with arduino.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gatonymous&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 ### <i class="fas fa-quote-left" style="color:green"></i> Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark&quote=Hacemos%20la%20vida%20de%20otros%20más%20sencilla.)
 
 ### <i class="fas fa-brain" style="color:cyan"></i> Top Contributed Repo
+<!--
 https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark
 ![](https://github-contributor-stats.vercel.app/api?username=gatonymous&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=gatonymous&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
